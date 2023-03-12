@@ -107,7 +107,7 @@
     <CityEvent>
         <Header>Шоу Comedy Club</Header>
         <Description>Лучшое шоу в России!</Description>
-        <Image>Assets/img/cc.png</Image>
+        <Image>Assets/img/cc.jpg</Image>
         <Date>1 апреля, 12:00</Date>
         <Category>
             <Show>true</Show>
